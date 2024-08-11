@@ -1,4 +1,4 @@
-EmuToFPGA
+#EmuToFPGA
 
 Little Python script that will sync save files between devices that read different types of saves.
 
